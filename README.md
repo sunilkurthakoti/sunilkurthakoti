@@ -68,14 +68,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="40" alt="vagrant logo"  />
 </div>
 
-###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunilkurthakoti&show_icons=true&locale=en&layout=compact" alt="sunilkurthakoti" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunilkurthakoti&show_icons=true&locale=en" alt="sunilkurthakoti" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunilkurthakoti&" alt="sunilkurthakoti" /></p>
