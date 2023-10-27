@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Sunil Kurthakoti. I Am From Gadag - Karnataka<br><br>- 🔭 I’m Actively looking For a Job in DevOps / Cloud <br>- 📚 I'm currently learning DevOps and Cloud Technologies<br>- ⚡ In my free time I watch Animes, Kdramas and Listen to Kpop</p>
+<p align="left">- 🔭 I’m Actively looking For a Job in DevOps / Cloud <br>- 📚 I'm currently learning DevOps and Cloud Technologies<br>
 
 ###
 
