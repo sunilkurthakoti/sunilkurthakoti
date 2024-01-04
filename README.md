@@ -32,7 +32,6 @@
 
 <h3 align="left">🛠 Language and tools</h3>
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
@@ -68,21 +67,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="40" alt="vagrant logo"  />
 </div>
 
-<div align="center" >
-# 📊 GitHub Stats:<br/>
-![](https://github-readme-stats.vercel.app/api?username=sunilkurthakoti&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sunilkurthakoti&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sunilkurthakoti&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=sunilkurthakoti&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"><br/>-->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunilkurthakoti&theme=dark&hide_border=false" alt="GitHub Streak Stats"><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilkurthakoti&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"><br/>
+</div>
 
+
+<!--.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sunilkurthakoti&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sunilkurthakoti&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!--.
+
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
